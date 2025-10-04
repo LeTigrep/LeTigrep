@@ -65,7 +65,6 @@ I strongly believe that writing **secure and maintainable code** is just as impo
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeTigrep&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeTigrep&layout=compact&theme=radical" alt="Top Languages" />
 </p>
