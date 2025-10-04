@@ -1,20 +1,6 @@
 <!-- Profile README for GitHub -->
 <h1 align="center">👋 Hi there, I'm Ghiles</h1>
 
-<p align="center">
-🎓 Master’s Degree in <strong>Programming, Safety & Security</strong> — <em>Sorbonne University</em><br>
-💻 Full Stack Developer | Secure Software Engineering Enthusiast<br>
-🌍 Based in France 
-</p>
-
----
-
-### 🚀 About Me
-I’m a recent graduate from **Sorbonne University**, where I specialized in **software safety, security**.  
-My passion lies in designing and building secure, high-performance applications — from elegant front-end interfaces to resilient back-end systems.
-
-I strongly believe that writing **secure and maintainable code** is just as important as building innovative features.
-
 ---
 
 ### 🧠 Tech Stack
