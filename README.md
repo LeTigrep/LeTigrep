@@ -45,16 +45,6 @@ My passion lies in designing and building secure, high-performance applications 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-### 🔐 Security Focus
-- OWASP Top 10 and secure coding best practices  
-- API authentication (JWT, OAuth2)  
-- Penetration testing & vulnerability analysis  
-- Threat modeling and code auditing  
-
----
-
 ### 🌱 Currently Learning
 - Cloud-native development (Docker, Kubernetes, AWS)  
 - Advanced application security  
